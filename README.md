@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola 👋, soy Damian Diaz!</h1>
 <h3 align="center">Un apasionado Desarrollador Full Stack de Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diaz027&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="diaz027" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimi0277&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="dami0277" /> </p>
 
 <p align="center"> 🔭 Actualmente estoy trabajando en un proyecto personal</p>
 
